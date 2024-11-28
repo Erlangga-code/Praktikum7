@@ -56,8 +56,9 @@ Membuat list kosong mahasiswa untuk menyimpan data mahasiswa.
 
 **KODE PROGRAM**
 
-![Coding2 5](https://github.com/user-attachments/assets/1c300318-5794-4852-8b73-d1ec9b6d70d9)
-![Coding22](https://github.com/user-attachments/assets/2f7e9f0c-c7e4-44c9-89ec-55ee6d813f03)
+![File 1](https://github.com/user-attachments/assets/534b441d-ed3a-41d0-a686-9fce16e86137)
+![File 2](https://github.com/user-attachments/assets/a585b628-1c2b-4277-8be7-408c0a080815)
+
 
 
 **FLOWCHART**
@@ -66,6 +67,9 @@ Membuat list kosong mahasiswa untuk menyimpan data mahasiswa.
 
 **HASIL PROGRAM**
 
-![Hasil 2](https://github.com/user-attachments/assets/b8278e7f-f134-4c25-989c-ed46b01868ee)
+
+![File 3](https://github.com/user-attachments/assets/d8bac3a6-2560-4682-9b84-a60edbb7f528)
+
+
 
 
